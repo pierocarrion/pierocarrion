@@ -7,6 +7,7 @@
 <a href="https://www.linkedin.com/in/carrionpintopiero/">
   <img align="left" alt="Piero Carrion's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
 <a href="https://www.linkedin.com/in/carrionpintopiero/">
   <img align="left" alt="Piero Carrion's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
