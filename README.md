@@ -1,6 +1,5 @@
 <h3 title="hey"> Hey 👋, I'm Piero Carrion!</h3>
 
-
 <a href="https://www.linkedin.com/in/carrionpintopiero/">
   <img align="left" alt="Piero Carrion's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
