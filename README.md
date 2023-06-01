@@ -5,7 +5,6 @@
 </a>
 <br />
 <br />
-
 A **Full Stack Backend-Heavy Developer (.NET y React/Angular 2+)**  🚀
  
 
