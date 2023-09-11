@@ -6,15 +6,14 @@
 <br />
 <br />
 
-A **Full Stack Backend-Heavy Developer (.NET y React/Angular 2+)**  🚀
+A **Software Developer**  🚀
  
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a Systems Engineer Student at Universidad Peruana de Ciencias Aplicadas (UPC)
-- 🌱 I’m currently exploring .NET with a big interest in it. 
+- 👨🏽‍💻 I’m a Systems Engineer at Universidad Peruana de Ciencias Aplicadas (UPC)
 - 🤔 My interest lies in backend development.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [piero.january15@gmail.com](mailto:piero.january15@gmail.com).
