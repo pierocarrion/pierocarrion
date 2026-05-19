@@ -2,10 +2,10 @@
   ![](https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge)
   
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+<a href="https://ko-fi.com/sold1erstark"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
   
-  - 🔭 I’m currently a Graduate Research student in ML at Georgia Tech.
-  - 🌱 I’m currently learning Machine Learning and Big Data
+  - 🔭 I’m currently a Senior Software Engineer.
+  - 🌱 I’m currently learning AI nodes
   - 💬 Ask me about FPS Games
   - 😄 Pronouns: He / Him
   - ⚡ Fun fact: My name is "Sold1erStark"
