@@ -6,7 +6,7 @@
   
   - 🔭 I’m currently a Graduate Research student in ML at Georgia Tech.
   - 🌱 I’m currently learning Machine Learning and Big Data
-  - 💬 Ask me about [Geoguessr](https://youtu.be/9XFyngt1dk0?t=1268), [Chess](https://www.chess.com/member/sciencepal) and Tintin comics
+  - 💬 Ask me about FPS Games
   - 😄 Pronouns: He / Him
   - ⚡ Fun fact: My name is an anagram of "I Play Data"
   
