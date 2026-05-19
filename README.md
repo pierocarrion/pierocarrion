@@ -8,7 +8,7 @@
   - 🌱 I’m currently learning Machine Learning and Big Data
   - 💬 Ask me about FPS Games
   - 😄 Pronouns: He / Him
-  - ⚡ Fun fact: My name is an anagram of "I Play Data"
+  - ⚡ Fun fact: My name is "Sold1erStark"
   
   #### 📫 How to reach me:
   
