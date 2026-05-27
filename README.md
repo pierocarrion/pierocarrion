@@ -8,7 +8,7 @@
   - 🌱 I’m currently learning AI nodes
   - 💬 Ask me about FPS Games
   - 😄 Pronouns: He / Him
-  - ⚡ Fun fact: My name is "Sold1erStark"
+  - ⚡ Fun fact: My steam name is "Sold1erStark"
   
   #### 📫 How to reach me:
   
