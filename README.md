@@ -9,6 +9,7 @@
   - 💬 Ask me about FPS Games
   - 😄 Pronouns: He / Him
   - ⚡ Fun fact: My steam name is "Sold1erStark"
+
   
   #### 📫 How to reach me:
   
