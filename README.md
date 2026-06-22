@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=pierocarrion&label=Profile%20Visits&color=blue&style=for-the-badge)
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/sold1erstark">
+<a href="https://ko-fi.com/soldierstark">
 <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/>
 </a>
 
